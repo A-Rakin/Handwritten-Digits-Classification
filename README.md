@@ -1,1 +1,1 @@
-# Handwritten-Digits-Classification
+I started my Deep Learning Journey around 10 days ago. I just made this DL model which is a basic model for begginers. I first check without uing any hidden layer. Then check using 2 hidden layer. When I use hidden layer and the activation function is ReLU and Sigmoid, then I figure out that the accuracy of that model increaes upto 98%. 
